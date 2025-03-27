@@ -10,7 +10,7 @@ public static int TotalStudents=0;
 
     }
     public void displayInfo() {
-        return;
+
     }
 
 

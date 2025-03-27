@@ -8,6 +8,6 @@ public class Device {
         deviceTotal++;
     }
     public void  useDevice() {
-       return;
+      
     }
 }
